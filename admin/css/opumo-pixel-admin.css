@@ -1,0 +1,6 @@
+#toplevel_page_opumo_pixel .wp-menu-image.dashicons-before {
+    background-image: url(../images/opumo_logo.png);
+    background-size: 58%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}

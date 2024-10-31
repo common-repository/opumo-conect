@@ -1,0 +1,1 @@
+<input id="!!id!!" class="!!class!!" placeholder="!!placeholder!!" type="!!type!!" name="opumo_connect_options[!!name!!]" value="!!value!!" size="!!size!!" !!status!! />
